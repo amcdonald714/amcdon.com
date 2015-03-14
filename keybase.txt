@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/amcdon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://amcdon.me
+  * I am amcdon (https://keybase.io/amcdon) on keybase.
+  * I have a public key with fingerprint 5F65 E9F1 5484 151B 49C1  69A4 1740 59E8 6A89 3AED
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "5f65e9f15484151b49c169a4174059e86a893aed",
+            "host": "keybase.io",
+            "key_id": "174059e86a893aed",
+            "kid": "010153ee90b6d8e5ae399d657ca6d7caefdef468599268a1d8a8311bb80e45d028d50a",
+            "uid": "a9aee2fcd33e1f1f57b222840568f100",
+            "username": "amcdon"
+        },
+        "service": {
+            "hostname": "amcdon.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1426362644,
+    "expire_in": 157680000,
+    "prev": "acf3f52c6eef67bc20eeff609b8c0ff260dd6d6e7c4b8d318f13f34f447890d6",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMMvAnicbVJtUFRlFF7WXStgg3EgJvxh3hj9s4P3e+9dSshotAYmNVuJj3buve97
+l7vg3mU/CPncMWRAk8VKyrFEhxmdSNIYIXbdTJYIgmJGGDI1IAdGxAbXZvODQuxe
+pn400/vjfc95znOe854z51vDKk1sTErWW7fsTeaFmJG+DK/mTd3hpCqEl8FexFyF
+lMCVR5QcNuhyuiSHBzEjlEhTkBUximRIjMJ4khUwmuVIzESiFAsZmmNYgoMAMSLF
+slvNUGR4zg3TJVnBFMcqAQX9H37JSgDFUIwiIGRRngYMpDhIsCygKZPA0UC5oAig
+SNIMxbI4zXAYYDiGwDCeZ1BIUgDFGUChnCLnXZHjWA5CXBQAQUBMxETKxOM4zijF
+aUbEUFQluqHLwe2BKnuPAGQHUmNEFKxcEqA6ALWP/8TTFduIOF2yRxbkUgUu9nic
+ZjXLs9ep0t6BvPUfASsvOYAyQSWhHLrckqJuxhSm4JFURYzEaYLGaZI0IrDCKbmg
+VVIZlIlmUOWoZWC5WlkQCZHCBRpCkTbxAo4qhkijLM8IqCjiNAoADWhoEkieAQSm
+NEeIBCmSpIlhUUAjaktlDhkxM8o3OZsi6ZZsDs7jdUGkJtxXqNPExGpW67XqDmhi
+n0r8dzOa5hMev+o7+HQkrVrfPQI21skbMsClxa32qU6/bXvZDUuj6J/+ICZfn/zc
+3FjCpWn24i4tcWt5fUZR/v7AvVWnzuVVDGUazllcNffCl+8mD3wW3wD35Zyxl6Zs
+rvVHren9IDR6+0FPdf2vw/JM89DV+CNMtaa1uPC9LrRHf7l85K9vJnI8b1emReO0
+hvpNZyd3rU34QxeYsPeX1a57or0h3pdnMGRa2QMDH7png197Z5sHE5/POLH+WGVL
+rr/x5faRJSG6Zf6rZWcyvqMjzrbph8mtkdxerdvTmlmQL65Lq++rWLMUSvX9+fGd
+Rm2WYzNXUtbVzFIX4sKLC7qp9hmY8hLms1zdcPZ+tG2pyq999nj2UjQQU/JK3I1I
+TUfi/OLczWDllz2RqTyH9u7pB3GhfVRq02/60PDohWHNMy0H04temB78vOP30slf
+yr8Y0lXMvbjaaDlAhvnvP9q5MRC8HbFf65dPB7e7pyxDC8cLuc7JH6+3Rn2Omx1j
+1p92F+hHglcaBoRtn+x8OBtJGh2PNjVe99gG353PnunsiG3ufv27+ycsheaWbTnT
+x4qYuoeZE6Hu1PNzmcOv6aFmbMbc1TZ4cvmUPeuo7pHmjYYrh2Zq1/bu7ntkOrJl
+PKny/WQstyCMP2k8dL54//Tj/l7Um3HyTii7rrZURAO+n8c/vZjbtubM4Wt/AyAC
+sVs=
+=ukYm
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/amcdon
+
+==================================================================
