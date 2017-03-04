@@ -4,7 +4,7 @@ https://keybase.io/amcdon
 
 I hereby claim:
 
-  * I am an admin of http://amcdon.com
+  * I am an admin of https://amcdon.com
   * I am amcdon (https://keybase.io/amcdon) on keybase.
   * I have a public key with fingerprint 5F65 E9F1 5484 151B 49C1  69A4 1740 59E8 6A89 3AED
 
@@ -23,20 +23,20 @@ To do so, I am signing this object:
         },
         "revoke": {
             "sig_ids": [
-                "d7c31da087f9a11d538edb94bbb2ec09e383297e4b6f519018cf1bacd014aff50f"
+                "1f7d1c5cbbbd74083c65d3a510c58e5e036afb2d9f3cacb835cf884859071bb30f"
             ]
         },
         "service": {
             "hostname": "amcdon.com",
-            "protocol": "http:"
+            "protocol": "https:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1466273039,
+    "ctime": 1488651416,
     "expire_in": 157680000,
-    "prev": "44d1885c71d7ec7898398f56044605914edf68e331530da0229a3a6ce57efa6f",
-    "seqno": 15,
+    "prev": "81df6ef65257d162ffbe0b87acf32813e8e8fca7878fa8b29e403d5ec0de91f8",
+    "seqno": 16,
     "tag": "signature"
 }
 
@@ -45,30 +45,30 @@ which yields the signature:
 -----BEGIN PGP MESSAGE-----
 Comment: GPGTools - https://gpgtools.org
 
-owGtkm1QVFUYx3d5cXIJaNRKAmG6UJgC3bP37dwdUWqRABEnKAgIt/tyLqywL+0u
-K6hIM9SMKygoEQ6aqYM0DNmAWROOoQNLKC9NipFJkG06A47kiGWKJJ3L1Idm+tj5
-cM+cM//n9//f5zn1wf4anfbppLzJLR7DtHZwStTkoj1R2wnRJlcQhu1ECVrYUKmM
-nC5TiVkmDAQJSMBQCPGkyMoQMQKieF5mGU4SWBl/kCIjhWYhw/N6FgpAhgKkABBF
-SCKakUk9lBlSIOIIxWwtQg67w2x1YSyjsAziFcDQkAYMEGleAiwv0ICjSYZHkBUg
-TwlIxoXFNqdagcOJghMlmG34Dh9MC/H+Q/8/5y5bwAm8gJBekWSKQkABCsOJer0e
-YnMWKoAkVaETOayCBalqiyTbrERlHOFAblsJUrvqNBfhyE7CUEBgfwrIAgk5hRcA
-kBkKIlnkaVEU9UgieURBSs9ziBZZhQE8CaCkAFGQZBLQgqIwpEIUYjb2c5ulBbja
-o395J0g2C85kd9hcNslWiu+LXS67QY3kqrCruq1I7DD9jTCJZquM54Mr3MjhNOPs
-BoClksusMgHNsnqOIik+jkDldrMDmcyqguFYSOKl+iA3ZtK0DCBkJA7IHJI4yEOK
-hwrDkjTN4jEBGskKCxFF4dGQuAF6PS9QAishhkOKwCqE+lNvW20qGwcVijAT980q
-uMociKjUefwiAjRanWZRoJ/6cjW6xU/885z7faHzxs9XXOnOZGlLdMg+rmSGCuur
-bB/oOWHcd+vlur6tP6ZOWHzKN2VVb65Kv+DIq86/qb2WMxf2S8Fs+ej1Ql/P/Nmj
-EwNdBj69yrNtoydlzD8ylO7uX/9FoTer7/01/l3xUxNbAjRvrQhY+/FTwUGJpq+o
-6A1Z44E1hy8+OpkmTrROZmszGvpmntE+qKILDg8N/xpxO++32ljfIe9YZXdUbHEW
-+9xFRlfv4XYaR/K9HUe7hwojva39IfNVEcu7Dp4u/2Om8932oRMp6Nk3moJ21JU+
-8CZ5vkxe0n83zfjtmUvVl47X3Ijde6bF1Xlg7IOrgbOfJBZqwts6jZs/S2xK3Tvw
-fG+Y1BqQdB54v78Q/97gqfqi2sEbcy9NbZb8kiu1kZczloHFSyLjO0qz74gZ51/z
-Vb++clcrFfXp/GimYf/q3pjeP3N8DZyvos5z7eSm4d8X+Smp61rSmzfUTq6bbXEV
-z4Vamr5rsDZvi1KkA4G94ecyLi9r/PnDuLb7QS8a2JEh1pu2Ovnrh+P3VhLHcne9
-88PBq+5hendc4NKxn44/2eh+vEAcfuV09mMTETV3dkwfaRzXFd9KkM8GR7fvvDuB
-7p2bbrbu0fXEjIjaI02hpo2G4Vzj8lOHPhpd05VYlgNv5tfsz3QGWG8/PJYTM792
-tC3cF3l9/RVr92SIsnTV/U2vTj9yz6e8YP8L
-=lsbD
+owGtkntQVFUcx3dXUMF4VD6qYSa8GBOw6H3fczcrYsQcyXHoIY8e232cu1wee5fd
+hUSGEK0UZAoMECnRBCGEAK2ZGARBlpChBMLBRIJspgeRBsMoAjrZuUz90Ux/dv44
+Z86Z7+/7/ZzfOcV+ywy+xnVRiZMpBZabxq9/Ew0J57x6czBRk7MxSw6WCpcWmCZD
+l9uaqsqYBcMJnGAoCHlcZGUAGQFSPC+zDCcJrIwmqMhQoVnA8DzJAoGQgQAoghBF
+gEOakXESyAwuYGZMUe026HQ4Vbsb2TIKy0BeIRga0ARDiDQvESwv0ARH4wwPASsA
+nhKgjAqTNZdegeBEwQU3qho6QxvrEt5/6P9n7swlO4EXICQVSaYoSCiEwnAiSZIA
+hbNAIXBcF7qg0y6kQ12dLsmaHcs1Y06YpaVCvasu1YaQXZjlVYxQOJmQGEkURRnx
+A0piGZkSGAKXGIQKcYoVFJGUeYWSBEkEFCMpANCIFecQIYUr2OvIG+VlqdKSud6j
+f2VvlLR0xORwam5N0tLQebLb7XBZdCZ3tkMXvgXPiNa/PayiapfRA6GSLOh0qQje
+QiCp5FZ1U4IGgGUImmDNGNztUJ3QquoKhmMBjoYeBLOQJyBkhYXobUkGXZElFUWE
+uAg4QVIoEhAUBBAoksABDigCEEke0jglM1DCZcgTCsD0W2XYNeSNotyCDXmixtkF
+d6YTYrm+BaYgL4PR17Dc26R/XYOvT+A//zm1P+B+tKV+U8nn1/fhm+jh4h2XD97e
+MLHNUrM57PfeXVcNHk9cZHCe5hwfqyl8YL2DI4q6e7cEqmv9vz9a0VhSvmLrzdo9
+pPLE/sW8ka3Vs0VUXMz9/d3TfYXXxqFSH7/wS2DSLXjn2ZPlVxoFc4M2/+axqB97
+/FI21ybuO0xWtEcPv51zJGQ+fOUX2K8XDW1JZZdCTP651Z1N25I+XF03Gn6S+rPN
+7D+gevIHLIa0kZbYgQ2P52XUdfT3fpwXfKooPI2fXnHXx6Dlt8RGLaaUPH37o4l3
+z1XfG+16bSztqROdLx3POO996MaDuWTo+MI7p4dOeLpKDS2rFvfWegpNp2LOr756
+dyG/XLteGjDY0bz2+a8q50cb0i2jaxKvKFxy9+hcU9jx6JA3Soc+GRoYzMosUmez
+dzBB7hcOT18zDvvYk4efTIwvjZzrMUV8m/qYX6fZ9tyX1cZXfH4YLjZx2yuzzZfM
+Vd/d2rm9aOZOc1X9Ba3soQPOn4MclUfbjzQ+U1iwPulGRNPk7PqLjtY95oc7ig9O
+BgfUhSV81hrqCV03KZ7layLDGyYrHGcv7+ozzXyw99G2lfxU/1zU2O7402xEGXkv
+uz5kzYEX2/m+ZuPyqlUx3+BY5ESjf6uIbXG7ZpclfXosYMrmrmK9B3daHwl674It
+bub9lxO4rhmvGcvI0E9TZzx/0D2xIVTvXw==
+=kQwj
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -77,3 +77,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/amcdon
 
 ==================================================================
+
