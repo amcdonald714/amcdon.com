@@ -593,6 +593,19 @@ article#bio p {
     line-height: 1em;
 }
 
+article#research p {
+    font-size: 1.3em;
+    line-height: 1.2em
+}
+
+article#research img {
+    width: 38%;
+    height: 38%;
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+
 article#bio img {
     width: 38%;
     height: 38%;

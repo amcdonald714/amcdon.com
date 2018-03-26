@@ -13,25 +13,20 @@
     <body class="">
         <div id="container">
 	
-            <header class="primary-header">
-                <h1><a href="/" title="Allison McDonald">Allison McDonald</a></h1>
+            <script src="jquery-3.3.1.js"></script>
+            <script>
+                $(function(){
+                    $("#includedContent").load("header.html");
+                });
+            </script>
 
-                <nav>
-                    <ul>
-                        <li><a href="./index.html">Home</a></li>
-                        <!--- soooooon! <li><a href="blog.html">Blog</a></li> -->
-                        <li><a href="mcdonald-cv.pdf">CV</a></li>
-                        <li><a href="contact.html">Contact</a></li>
-                    </ul>
-                </nav>
-            </header>
-
-
-
+            <div id="includedContent"></div>
 
             <article class="roboto" id="bio">
                 <img src="iamsoserious.jpg">
-                <p>I am a second-year PhD student working with Professor <a href="https://jhalderm.com">J. Alex Halderman</a> at the University of Michigan.</p>
+                <p>I am a second-year PhD student working with <a href="https://jhalderm.com">J. Alex Halderman</a> 
+                and <a href="https://www.si.umich.edu/people/florian-schaub">Florian Schaub</a> at the University 
+                of Michigan.</p>
 
                 <p>My research interests lie in the intersection of technology and society, 
                     particularly in the areas of privacy and security. I study topics such
@@ -41,7 +36,9 @@
                     this disparity has on how technology is used, perceived, and legislated.</p>
 
 
-                <p>I was a <a href="http://studentawards.engin.umich.edu/fellowship/">Roger M Jones Fellow</a> at the European University Viadrina, and my experiences studying human rights law were chronicled on the <a href="https://rogermjones.wordpress.com/2015/09/05/meet-allison/">fellowship blog</a>.</p>
+                <p>I was a <a href="http://studentawards.engin.umich.edu/fellowship/">Roger M Jones Fellow</a> at 
+                the European University Viadrina, and my experiences studying human rights law were chronicled 
+                on the <a href="https://rogermjones.wordpress.com/2015/09/05/meet-allison/">fellowship blog</a>.</p>
                 
             </article>
         </div>
