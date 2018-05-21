@@ -1,3 +1,5 @@
+colorscheme slate
+
 "" No need to be compatible with vi and lose features.
 set nocompatible
 
