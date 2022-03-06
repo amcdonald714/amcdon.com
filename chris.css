@@ -398,7 +398,7 @@ header.primary-header nav ul li:last-child:after {
 }
 
 #container {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Hind', sans-serif;
 }
 
 section,
@@ -510,7 +510,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Hind', sans-serif;
     color: #646464
 }
 
@@ -567,14 +567,14 @@ select,
 input,
 textarea {
     color: #222;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Hind', sans-serif;
     font-weight: 300
 }
 
 header.primary-header h1 {
     font-weight: bold;
     font-size: 3.5em;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Hind', sans-serif;
 }
 
 section p,
@@ -583,7 +583,7 @@ section ul,
 section ol,
 article ul,
 article ol {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Hind', sans-serif;
     font-weight:550;
     color: #646464;
 }
